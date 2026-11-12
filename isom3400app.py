@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 st.title("Business Data Dashboard")
 
 # Introduction text
+st.write("ISOM 3400")
 st.write("This dashboard helps visualize sales data over time.")
 
 # Sample data
